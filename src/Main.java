@@ -15,7 +15,7 @@ public class Main {
                 days = 365;
             }
             if (days == day){
-            count++;
+
             }
             else {
                 System.out.println("Неправильно! В этом году " + days + " дней!");
